@@ -58,7 +58,7 @@ ms.author: maggies
   
 13. Click **Next**.  
   
-14. On the **Name** page enter a name of**ReportServer (TCP on port 80)**  
+14. On the **Name** page enter a name of **ReportServer (TCP on port 80)**  
   
 15. Click **Finish**.  
   
